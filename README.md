@@ -30,7 +30,7 @@
   ```bash
   python manage.py runserver
   ```
-- 访问 [http://127.0.0.1:8000](http://127.0.0.1:8000) 查看 WebUI。
+- 访问 [http://127.0.0.1:8000/chat](http://127.0.0.1:8000/chat) 查看 WebUI。
 
 ---
 
